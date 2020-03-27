@@ -1,0 +1,26 @@
+.details div{
+   
+
+}
+#cont{
+    width: fit-content;
+    border: ;
+    margin: auto;
+}
+
+div.content{
+
+
+  
+}
+.colorchange{
+    background-color: rgb(71, 255, 111);
+}
+.details div{
+    width: 10em;
+    height: 1.5em;
+    background-color: tomato;
+    border-radius: 2em 2em 2em 2em;
+    text-align: center;
+}
+
